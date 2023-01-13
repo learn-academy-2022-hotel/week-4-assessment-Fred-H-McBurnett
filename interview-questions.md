@@ -33,7 +33,7 @@ Researched answer: The fact of implicit returns in Ruby means that Ruby will ret
 
 Your answer:  In Ruby, a block is a piece of code with a distinct name assigned to it, and is enclosed in curly braces{}.  A block is always involed from a function with that same name.  In other words, if you create a block called practice, it can be invoked by using the function practice to call it.
 
-Researched answer: Ruby blcoks are anonymous functioons that can be passed into methods.  Blocks are either enclosed in DO-END statments or in curly braces{}.  Do-End blocks are typically those that contain more than a single line of code, while curly braces are more often used for single line code blocks.
+Researched answer: Ruby blocks are anonymous functions that can be passed into methods.  Blocks are either enclosed in DO-END statments or in curly braces{}.  Do-End blocks are typically those that contain more than a single line of code, while curly braces are more often used for single line code blocks.
 
 1. How do you extract a value in a Ruby hash?
 

@@ -80,6 +80,7 @@ palindrome_tester3 = 'Rotator'
 
 # Psuedo-code 
 # 1. Create a method called pal_test
+# 2. Using .upcase, convert the entire string into upcase to compare the initial and reversed strings
 # 2. Using the given values for palindrome_tester1, palindrome_tester2, and palindrome_tester3
 # 3. Using the method pal_test, test if the values given are palindromes
 # 4. If the word is a palingdrome, return (value) is a palindrome.
